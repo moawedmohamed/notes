@@ -6,6 +6,7 @@ function App() {
     <main>
       <Navbar />
       <Hero  />
+   <div className="h-[1000px]"></div>
     </main>
   );
 }
