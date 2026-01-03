@@ -15,6 +15,13 @@ foreswore ==>تراجع عن
 elapse=>يمرّ (عن الوقت)
 glued==>ملتصق / مثبت بالغِراء
 melt==>يذوب
+pursuits==>أنشطة أو اهتمامات يسعى لها الشخص
+quirky==>غريب شوية بس بشكل لطيف أو مميز
+mocked someone==>سخر من شخص / استهزأ به
+acronyms==>اختصارات تُنطق ككلمة واحدة(مثل: NASA)
+abbreviations==>اختصارات عامة(مثل: etc. / Dr.)
+antithesis==.النقيض / العكس التام
+
 Compassion fatigue==>تعب ناتج عن التعاطف مع ألم الآخرين
 accused==>مُتَّهَم
 racial prejudice==>تحيّز أو عنصرية عِرقية
